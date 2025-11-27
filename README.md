@@ -25,24 +25,49 @@ http://localhost/lab8_php_database/
 
 ## Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
 
-<img width="596" height="172" alt="Cuplikan layar 2025-11-17 132614" src="https://github.com/user-attachments/assets/ac956d2d-44b9-40fe-a955-3bd069df499a" />
+<img width="500" height="150" alt="Cuplikan layar 2025-11-17 132614" src="https://github.com/user-attachments/assets/ac956d2d-44b9-40fe-a955-3bd069df499a" />
 
 ## 5. Membuat file index untuk menampilkan data (Read)
-## Buat file baru dengan nama index.php
+## - Buat file baru dengan nama index.php
 
-<img width="977" height="326" alt="image" src="https://github.com/user-attachments/assets/aff1c7c8-443e-4af8-810c-9ddf6b414edc" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/aff1c7c8-443e-4af8-810c-9ddf6b414edc" />
+
+## - Setelah ditambahkan css
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/547d8795-18fd-42f3-9602-b6f27f86e13f" />
+
 
 ## 6. Menambah Data (Create)
 ## Buat file baru dengan nama tambah.php 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/72b18ad7-55ce-49dd-80f5-35b7a9b17f06" />
 
-<img width="936" height="383" alt="image" src="https://github.com/user-attachments/assets/72b18ad7-55ce-49dd-80f5-35b7a9b17f06" />
+## - Setelah ditambahkan css 1
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8bad1c7c-ca07-4f9b-becb-af54ec4b53a9" />
+
+## - Setelah ditambahkan css 2
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/c678a9d1-dc05-4e12-95a8-e0ddd2d48ffd" />
+
+
+
+## - Setelah Produk ditambahkan dan muncul di Halaman Data Barang
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4e1e9155-631b-4e28-8dfc-c866335ec3c7" />
+
+
 
 ## 7. Mengubah Data (Update)
 ## Buat file baru dengan nama ubah.php
-<img width="702" height="441" alt="image" src="https://github.com/user-attachments/assets/3a5dcd06-0e7a-4c08-8f48-588ed0717568" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/3a5dcd06-0e7a-4c08-8f48-588ed0717568" />
+
+## - Halaman dari ubah data
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/08b11ba7-031d-4fd8-b1f5-d86c4659c8af" />
+
+
+## - Hasil dari ubah data
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8e0fd28a-c3fd-40ce-a8d8-8eca5d8a819a" />
 
 ## 8.Menghapus Data (Delete)
 ## Buat file baru dengan nama hapus.php
 
-<img width="1919" height="383" alt="image" src="https://github.com/user-attachments/assets/5239dc06-8217-4ae4-9c71-b40f84251281" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/5239dc06-8217-4ae4-9c71-b40f84251281" />
 
+## - Hasil setelah data dihapus
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8af61cdc-e3d6-4d8d-a508-ce444adab3e0" />
